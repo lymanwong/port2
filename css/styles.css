@@ -540,3 +540,7 @@ img::-moz-selection {
     margin-right: auto;
     margin-left: auto;
 }
+
+.large_font {
+    font-size: 20px;
+}
