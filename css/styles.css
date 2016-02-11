@@ -527,7 +527,16 @@ img::-moz-selection {
     background: 0 0;
 }
 .profile {
-    width: 25%;
+    width: 30%;
     height: auto;
     border-radius: 50%;
+}
+.university {
+    text-align: center;
+}
+
+.centering_modal_image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
