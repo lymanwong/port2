@@ -33,7 +33,7 @@
 
     $('.contact-form').mouseenter(function(){
         $(this).fadeOut("slow");
-        $('.form_notice').addClass('large_font animated bounce')
-    });
+        $('.form_notice').addClass('large_font animated bounce');
+    })
 
 })(jQuery);
