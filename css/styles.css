@@ -557,3 +557,6 @@ img::-moz-selection {
     padding: 2.5%;
 }
 
+.experience_date_font_size {
+    font-size: .7em;
+}
