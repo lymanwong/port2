@@ -31,9 +31,15 @@
        $('#galleryImage').attr("src",$(e.relatedTarget).data("src"));
     });
 
-    $('.contact-form').mouseenter(function(){
-        $(this).fadeOut("slow");
-        $('.form_notice').addClass('large_font animated bounce');
-    })
-
+    $('form').on('submit',function(event){
+        event.preventDefault();
+        $.ajax({
+            type: 'POST',
+            url: 'send_message.php',
+            data: $('form').serialize(),
+            success: function () {
+                alert('Success!');
+            }
+        });
+    });
 })(jQuery);
