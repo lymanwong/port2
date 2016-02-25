@@ -557,6 +557,12 @@ img::-moz-selection {
     padding: 2.5%;
 }
 
-.experience_date_font_size {
-    font-size: .7em;
+
+.stroke_me {
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
