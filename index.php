@@ -93,7 +93,7 @@
                         <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/josh.jpg"><img class="profile" src="images/josh.jpg" alt="This is a picture of my friend, Josh, a co-worker at Zynga."></a>
                         <h3>Josh W.</h3>
                         <h4>Backend Technical Lead @ Life360</h4>
-                        <p class="text-muted">"While I can only select one title with which I've worked with Lyman, we have worked on the same projects for over three years and, across all of them he has, to use the parlance at Zynga, "killed it". He has always been completely reliable in his work, able to switch between projects and attentively follow them from start to finish..."</p>
+                        <p class="text-muted">"While I can only select one title with which I've worked with Lyman, we have worked on the same projects for over three years and, across all of them he has, to use the parlance at Zynga, "killed it". He has always been completely reliable in his work, able to switch between projects and attentively follow them from start to finish..."<a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
