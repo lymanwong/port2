@@ -302,7 +302,7 @@
                     <form class="contact-form row" name="form1" method="post" action="?">
                         <div class="col-md-4">
                             <label></label>
-                            <input name="name" id="name" type="text" class="form-control" placeholder="Name" >
+                            <input name="name" id="name" type="text" class="form-control" placeholder="Your name" >
                         </div>
                         <div class="col-md-4">
                             <label></label>
@@ -310,7 +310,7 @@
                         </div>
                         <div class="col-md-4">
                             <label></label>
-                            <input type="text" id="subject" name="subject" class="form-control" placeholder="The subject you're contacting me about" >
+                            <input type="text" id="subject" name="subject" class="form-control" placeholder="The subject" >
                         </div>
                         <div class="col-md-12">
                             <label></label>
@@ -319,8 +319,8 @@
                         </div>
                         <div class="col-md-4 col-md-offset-4">
                             <label></label>
-                            <button type="submit" name="Submit" data-toggle="modal" data-target="#alertModal" class="btn btn-primary btn-block btn-lg">Send <i class="ion-android-arrow-forward"></i></button>
-                            <button type="reset" name="Submit2" data-toggle="modal" data-target="#alertModal" class="btn btn-primary btn-block btn-lg">Reset <i class="ion-android-arrow-forward"></i></button>
+                            <button title="Click to send" type="submit" name="Submit" data-toggle="modal" data-target="#alertModal" class="btn btn-primary btn-block btn-lg">Send <i class="ion-android-arrow-forward"></i></button>
+                            <button title="Click to clear the form"type="reset" name="Submit2" data-toggle="modal" data-target="#alertModal" class="btn btn-primary btn-block btn-lg">Reset <i class="ion-android-arrow-forward"></i></button>
                         </div>
                     </form>
                 </div>
@@ -337,7 +337,7 @@
                         <li><a class="page-scroll" href="#two">Projects</a></li>
                         <li><a class="page-scroll" href="#three">Experience</a></li>
                         <li><a class="page-scroll" href="#four">Education</a></li>
-                        <li><a class="page-scroll" data-toggle="modal" title="resume" href="#resume">Resume</a></li>
+                        <li><a class="page-scroll" data-toggle="modal" title="See my resume" href="#resume">Resume</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-6 col-sm-3 column">

@@ -16,7 +16,7 @@ $header = "$email";
 
 if($_POST){
   mail($to, $subject, $message, $header);
-  $feedback = "Success!";
+  $feedback = "Thanks for your email!";
 }
 //Check, if message sent to your email
 //display message "We've received your email"
