@@ -93,7 +93,7 @@
                         <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/josh.jpg"><img class="profile" src="images/josh.jpg" alt="This is a picture of my friend, Josh, a co-worker at Zynga."></a>
                         <h3>Josh W.</h3>
                         <h4>Backend Technical Lead @ Life360</h4>
-                        <p class="text-muted">"While I can only select one title with which I've worked with Lyman, we have worked on the same projects for over three years and, across all of them he has, to use the parlance at Zynga, "killed it". He has always been completely reliable in his work, able to switch between projects and attentively follow them from start to finish..."<a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                        <p class="text-muted">"While I can only select one title with which I've worked with Lyman, we have worked on the same projects for over three years and, across all of them he has, to use the parlance at Zynga, "killed it". He has always been completely reliable in his work, able to switch between projects and attentively follow them from start to finish..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
@@ -295,8 +295,6 @@
                     <h2 class="margin-top-0 wow fadeIn">Get in Touch</h2>
                     <p id="feedback"><?php echo $feedback; ?>
                     <hr class="primary">
-                    <!-- <p class="form_notice">You can email me by clicking <a href="mailto:lymanwong@gmail.com?&subject=Ahoy from lymanwong.com!" title="Launches your default mailer">here</a>.</p> -->
-                    <!-- <p class="form_notice">This form is a work in progress. You can reach me by clicking <a href="mailto:lymanwong@gmail.com?subject=Ahoy from your page">here</a>.</p> -->
                 </div>
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <form class="contact-form row" name="form1" method="post" action="?">
@@ -341,8 +339,25 @@
                     </ul>
                 </div>
                 <div class="col-xs-6 col-sm-3 column">
+                <h4>Github</h4>
+                <ul class="list-unstyled">
+                    <li><a href="https://github.com/lymanwong/portfolio" target="_blank">Phlint</a></li>
+                    <li><a href="https://github.com/lymanwong/angular-examples" target="_blank">Angular</a></li>
+                    <li><a href="https://github.com/lymanwong/Javascript-stuff" target="_blank">JavaScript</a></li>
+                    <li><a href="https://github.com/lymanwong/Ruby-Stuff" target="_blank">Ruby</a></li>
+                    <li><a href="https://github.com/lymanwong/Python-Projects" target="_blank">Python</a></li>
+                    <li><a href="https://github.com/lymanwong/Csharp-stuff" target="_blank">C#</a></li>
+                    <li><a href="#resume" target="_blank">Android</a></li>
+                </ul>
                 </div>
                 <div class="col-xs-12 col-sm-3 column">
+                <h4>Projects</h4>
+                <ul class="list-unstyled">
+                    <li><a href="https://lyman-wong-angular.herokuapp.com/#/" target="_blank">My Angular Page</a></li>
+                    <li><a href="https://pictureperfectbyivon.herokuapp.com/" target="_blank">Picture Perfect</a></li>
+                    <li><a href="http://gowo.herokuapp.com/signup" target="_blank">GOWO</a></li>
+                    <li><a href="http://valentinesmarssy.herokuapp.com/" target="_blank">Valentines</a></li>
+                </ul>
                 </div>
                 <div class="col-xs-12 col-sm-3 text-right">
                     <h4>Follow</h4>
