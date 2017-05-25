@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Lyman Wong | Webdev & Community Manager</title>
+    <title>Lyman Wong | Webdev</title>
     <meta name="description" content="Lyman Wong, Web Developer" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Codeply">
@@ -60,10 +60,10 @@
         <div class="header-content">
             <div class="inner">
                 <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/profile.jpg"><img class="profile" src="http://lymanwong.com/images/profile.jpg" alt="This is a headshot of me."></a>
-                <h1 class="cursive stroke_me">Lyman Wong<br>Webdev & Community Manager</h1>
+                <h1 class="cursive stroke_me">Lyman Wong<br>Webdev</h1>
             </div>
         </div>
-        <video autoplay="" loop="" class="fillWidth fadeIn wow collapse in" data-wow-delay="0.5s" poster="http://lymanwong.com/images/laptop.jpg" id="video-background">
+        <video autoplay loop muted class="fillWidth fadeIn wow collapse in" data-wow-delay="0.5s" poster="http://lymanwong.com/images/laptop.jpg" id="video-background">
             <source src="http://lymanwong.com/videos/Laptop_1_Videvo.mp4" type="video/mp4">Your browser does not support the video tag. I suggest you upgrade your browser.
         </video>
     </header>
@@ -77,6 +77,35 @@
             </div>
         </div>
         <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="feature">
+                        <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
+                        <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/neil.jpg"><img class="profile"src="images/neil.jpg" alt="This is a picture of Neil."></a>
+                        <h3>Neil F.</h3>
+                        <h4>Sr. Director @ LeEco US</h4>
+                        <p class="text-muted">"Launching LeEco in North America was no easy task and Lyman was a vital team member and leader in getting the business off the ground. LeEco's primary communication and sales channel is LeEco.com and Lyman was central to launching this. Lyman led development efforts to build and code a brand website..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="feature">
+                        <!-- <i class="icon-lg ion-android-person wow fadeInUp" data-wow-delay=".2s"></i> -->
+                        <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/Howard.jpg"><img class="profile" src="images/Howard.jpg" alt="This is a picture of my co-worker, Howard, at LeEco."></a>
+                        <h3>Howard H.</h3>
+                        <h4>Sr. Product Manager @ LeEco US</h4>
+                        <p class="text-muted">"Persistent, thorough, and tenacious are three immediate words I would describe Lyman's professional grit. He had a project which involved launching a large scale eCommerce platform on a corporate site which he was able to handle and complete within the proposed timeline without skipping a beat..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="feature">
+                        <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
+                        <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/brandon.jpg"><img class="profile"src="images/brandon.jpg" alt="This is a picture of my friend, Eric, from Zynga."></a>
+                        <h3>Brandon T.</h3>
+                        <h4>Developer @ LeEco US</h4>
+                        <p class="text-muted">"Anyone who knows Lyman will tell you that he's good person; reasonable and patient. He's got a clear passion for technology, teamwork and problem solving. Above all, he pushes himself hard and loves what he does. I enjoyed working with Lyman and wouldn't hesitate to choose him for my team – anytime." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="feature">
@@ -101,7 +130,7 @@
                         <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
                         <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/eric.jpg"><img class="profile"src="images/eric.jpg" alt="This is a picture of my friend, Eric, from Zynga."></a>
                         <h3>Eric A.</h3>
-                        <h4>Systems Analyst at Accenture</h4>
+                        <h4>Systems Analyst @ Accenture</h4>
                         <p class="text-muted">"Truly, one of the best co-workers/teammates I've ever had. Lyman has a work-ethic that is pretty hard to match. He can carry a multitude of projects, simultaneously, from their beginning to end, pivot at a moments notice with rapidly changing needs, and without fail, maintain a forward-thinking, positive, friendly, approach to his work and to others..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
                     </div>
                 </div>
@@ -199,9 +228,9 @@
                 <h2 class="text-center text-primary">Experience</h2>
                 <hr>
                 <div class="media wow fadeInRight">
-                    <h3>Phlint Retail Analytics</h3>
+                    <h3>LeEco US - May 2016 to Current</h3>
                     <div class="media-body media-middle">
-                        <p>Front End Developer</p>
+                        <p>Web Developer</p>
                     </div>
                     <div class="media-right">
                         <i class="icon-lg ion-monitor"></i>
@@ -209,19 +238,19 @@
                 </div>
                 <hr>
                 <div class="media wow fadeInLeft">
-                    <h3>Yerdle, Inc.</h3>
+                    <h3>Phlint Retail Analytics - Oct. 2015 to Apr. 2016</h3>
                     <div class="media-left">
-                        <i class="icon-lg ion-ios-heart-outline"></i>
+                        <i class="icon-lg ion-monitor"></i>
                     </div>
                     <div class="media-body media-middle">
-                        <p>Community Manager</p>
+                        <p>Front End Developer</p>
                     </div>
                 </div>
                 <hr>
                 <div class="media wow fadeInRight">
-                    <h3>Zynga</h3>
+                    <h3>Yerdle, Inc. - May 2015 to Oct. 2015</h3>
                     <div class="media-body media-middle">
-                        <p>Associate Community Manager, Community Specialist, and Game Lead</p>
+                        <p>Community Manager</p>
                     </div>
                     <div class="media-right">
                         <i class="icon-lg ion-ios-people-outline"></i>
@@ -229,19 +258,19 @@
                 </div>
                 <hr>
                 <div class="media wow fadeInLeft">
-                    <h3>Various, Inc.</h3>
+                    <h3>Zynga - July 2010 to June 2013</h3>
                     <div class="media-left">
                         <i class="icon-lg ion-cube"></i>
                     </div>
                     <div class="media-body media-middle">
-                        <p>Project Manager</p>
+                        <p>Associate Community Manager, Community Specialist, and Game Lead</p>
                     </div>
                 </div>
                 <hr>
                 <div class="media wow fadeInRight">
-                    <h3>TiVo</h3>
+                    <h3>Various, Inc. - Jan. 2007 to Apr. 2010</h3>
                     <div class="media-body media-middle">
-                        <p>Operations Program Coordinator, Lead Lineup Specialist, and Technical Support</p>
+                        <p>Project Manager</p>
                     </div>
                     <div class="media-right">
                         <i class="icon-lg ion-android-folder-open"></i>
