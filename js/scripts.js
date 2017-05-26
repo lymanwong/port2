@@ -38,7 +38,7 @@
             url: 'send_message.php',
             data: $('form').serialize(),
             success: function () {
-                alert('Success!');
+                alert("Sweet! Thanks for your email. I'll get back to you as soon as possible.");
             }
         });
     });
