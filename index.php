@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
     <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/animate.min.css" />
     <link rel="icon" type="image/png" href="http://lymanwong.com/images/favicon.ico" />
   </head>
@@ -81,7 +81,7 @@
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="feature">
                         <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
-                        <a href="#galleryModal" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/neil.jpg"><img class="profile"src="images/neil.jpg" alt="This is a picture of Neil."></a>
+                        <a href="javascript:void(0)" class="gallery-box" data-toggle="modal" data-src="http://lymanwong.com/images/neil.jpg"><img class="profile"src="images/neil.jpg" alt="This is a picture of Neil."></a>
                         <h3>Neil F.</h3>
                         <h4>Sr. Director @ LeEco US</h4>
                         <p class="text-muted">"Launching LeEco in North America was no easy task and Lyman was a vital team member and leader in getting the business off the ground. LeEco's primary communication and sales channel is LeEco.com and Lyman was central to launching this. Lyman led development efforts to build and code a brand website..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
