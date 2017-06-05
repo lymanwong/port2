@@ -475,7 +475,7 @@ img::-moz-selection {
 
 .flip-container, .front, .back {
   width: 320px;
-  height: 480px; }
+  height: 300px; }
 
 /* flip speed goes here */
 .flipper {
@@ -488,7 +488,8 @@ img::-moz-selection {
   backface-visibility: hidden;
   position: absolute;
   top: 0;
-  left: 0; }
+  left: 0;
+  margin-top-top: 25%; }
 
 /* front pane, placed above back */
 .front {
@@ -499,8 +500,6 @@ img::-moz-selection {
 /* back, initially hidden pane */
 .back {
   transform: rotateY(180deg); }
-  .back > a {
-    padding-top: 50%; }
 
 .text-muted {
   text-align: left; }
