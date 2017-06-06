@@ -263,7 +263,11 @@ footer {
 
   section {
     min-height: 600px;
-    padding: 100px 0; } }
+    padding: 100px 0; }
+
+  section #one {
+    padding-top: 100px;
+    padding-bottom: 50px; } }
 .form-control {
   display: block;
   width: 100%;
@@ -294,9 +298,6 @@ textarea {
   margin: 50px auto 0;
   max-width: 400px; }
 
-@media (min-width: 992px) {
-  .feature {
-    margin: 20px auto 0; } }
 .feature p {
   margin-bottom: 0; }
 
@@ -464,7 +465,7 @@ img::-moz-selection {
   color: white;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
 
-/* flip CSS */
+/* Horizontal flip CSS */
 /* entire container, keeps perspective */
 .flip-container {
   perspective: 1000px; }
@@ -475,7 +476,7 @@ img::-moz-selection {
 
 .flip-container, .front, .back {
   width: 320px;
-  height: 300px; }
+  height: 480px; }
 
 /* flip speed goes here */
 .flipper {
@@ -497,11 +498,22 @@ img::-moz-selection {
   /* for firefox 31 */
   transform: rotateY(0deg); }
 
+.flip-container, .front, .back {
+  width: 320px;
+  height: 300px; }
+
 /* back, initially hidden pane */
 .back {
   transform: rotateY(180deg); }
 
 .text-muted {
   text-align: left; }
+
+@media (min-width: 992px) {
+  .feature {
+    margin: 20px auto 0; } }
+@media (max-width: 991px) {
+  #one .flip-container, .front, .back {
+    margin: 0 auto; } }
 
 /*# sourceMappingURL=style.css.map */

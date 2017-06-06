@@ -328,6 +328,11 @@ footer {
         padding: 100px 0;
     }
 
+    section #one {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
 }
 
 .form-control {
@@ -365,11 +370,11 @@ textarea {
     max-width: 400px;
 }
 
-@media(min-width:992px) {
-    .feature {
-        margin: 20px auto 0;
-    }
-}
+// @media(min-width:992px) {
+//     .feature {
+//         margin: 20px auto 0;
+//     }
+// }
 
 .feature p {
     margin-bottom: 0;
@@ -571,7 +576,7 @@ img::-moz-selection {
 }
 
 
-/* flip CSS */
+/* Horizontal flip CSS */
 /* entire container, keeps perspective */
 .flip-container {
     perspective: 1000px;
@@ -583,7 +588,7 @@ img::-moz-selection {
 
 .flip-container, .front, .back {
     width: 320px;
-    height: 300px;
+    height: 480px;
 }
 
 /* flip speed goes here */
@@ -597,7 +602,6 @@ img::-moz-selection {
 /* hide back of pane during swap */
 .front, .back {
     backface-visibility: hidden;
-
     position: absolute;
     top: 0;
     left: 0;
@@ -611,6 +615,11 @@ img::-moz-selection {
     transform: rotateY(0deg);
 }
 
+.flip-container, .front, .back {
+    width: 320px;
+    height: 300px;
+}
+
 /* back, initially hidden pane */
 .back {
     transform: rotateY(180deg);
@@ -619,3 +628,16 @@ img::-moz-selection {
 .text-muted {
     text-align: left;
 }
+
+@media(min-width:992px) {
+    .feature {
+        margin: 20px auto 0;
+    }
+}
+
+@media(max-width:991px){
+    #one .flip-container, .front, .back {
+        margin: 0 auto;
+    }
+}
+
