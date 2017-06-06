@@ -115,8 +115,12 @@ footer {
     padding: 15px;
 }
 
-.no-padding {
-    padding: 0;
+// .no-padding {
+//     padding: 0;
+// }
+.examples-styling {
+    padding-top: 20px;
+    background-color: rgb(0,0,0);
 }
 
 .navbar-default {
@@ -580,15 +584,19 @@ img::-moz-selection {
 /* entire container, keeps perspective */
 .flip-container {
     perspective: 1000px;
+    transform-style: preserve-3d;
 }
-    /* flip the pane when hovered */
-    .flip-container:hover .flipper, .flip-container.hover .flipper {
+    /*  UPDATED! flip the pane when hovered */
+    .flip-container:hover .back {
+        transform: rotateY(0deg);
+    }
+    .flip-container:hover .front {
         transform: rotateY(180deg);
     }
 
 .flip-container, .front, .back {
     width: 320px;
-    height: 480px;
+    height: 300px;
 }
 
 /* flip speed goes here */
@@ -602,27 +610,23 @@ img::-moz-selection {
 /* hide back of pane during swap */
 .front, .back {
     backface-visibility: hidden;
+    transition: 0.6s;
+    transform-style: preserve-3d;
+
     position: absolute;
     top: 0;
     left: 0;
-    margin-top-top: 25%;
 }
 
-/* front pane, placed above back */
+/*  UPDATED! front pane, placed above back */
 .front {
     z-index: 2;
-    /* for firefox 31 */
     transform: rotateY(0deg);
-}
-
-.flip-container, .front, .back {
-    width: 320px;
-    height: 300px;
 }
 
 /* back, initially hidden pane */
 .back {
-    transform: rotateY(180deg);
+    transform: rotateY(-180deg);
 }
 
 .text-muted {

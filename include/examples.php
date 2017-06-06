@@ -1,4 +1,4 @@
-<section id="two" class="no-padding bg-primary">
+<section id="two" class="examples-styling bg-primary">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">

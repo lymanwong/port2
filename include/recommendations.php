@@ -10,7 +10,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4 text-center">
-                    <div class="flip-container">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover')";>
                         <div class="flipper">
                             <div class="feature front">
                                 <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
-                    <div class="flip-container">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="feature front">
                         <!-- <i class="icon-lg ion-android-person wow fadeInUp" data-wow-delay=".2s"></i> -->
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
-                    <div class="flip-container">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="feature front">
                         <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
@@ -60,7 +60,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-4 text-center">
-                    <div class="flip-container">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="feature front">
                         <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
-                    <div class="flip-container">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="feature front">
                         <!-- <i class="icon-lg ion-android-person wow fadeInUp" data-wow-delay=".2s"></i> -->
@@ -92,7 +92,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
-                    <div class="flip-container">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="feature front">
                         <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
