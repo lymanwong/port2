@@ -26,6 +26,7 @@
                 <div class="col-xs-12 col-sm-3 column">
                 <h4>Projects</h4>
                 <ul class="list-unstyled">
+                    <li><a href="http://nytapi.herokuapp.com/" target="_blank">Search NY Times API<span style="color:red;"> NEW</span></a></li>
                     <li><a href="https://lyman-wong-angular.herokuapp.com/#/" target="_blank">My Angular Page</a></li>
                     <li><a href="https://pictureperfectbyivon.herokuapp.com/" target="_blank">Picture Perfect</a></li>
                     <li><a href="http://gowo.herokuapp.com/signup" target="_blank">GOWO</a></li>
