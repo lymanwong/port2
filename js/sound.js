@@ -19,6 +19,8 @@ window.onload = function() {
     var menuLink = menuLinks[i];
     menuLink.onclick = function(event) {
       event.preventDefault();
+      $('.genre').fadeOut("slow");
+      $('.myalert').fadeIn("slow");
       playSomeSound(menuLink.innerHTML);
     };
   }

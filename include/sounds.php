@@ -3,7 +3,14 @@
         <div class="modal-content">
             <div class="modal-body">
                 <h2 class="text-center">Sounds</h2>
-                <h5 class="text-center">Would you like to listen to some music? <a href="#" class="genre">Yes!</a></h5>
+                <h5 class="text-center">Would you like to listen to some music?</h5>
+                <div class="alert alert-info alert-dismissible myalert" role="alert" style="display:none;">
+                  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                  <strong>Awesome!</strong><br/>
+                  Click the pause button on the SoundCloud UI to stop the music.
+                </div>
                 <!-- <h5>
                 <ul class="music_list">
                     <li><a href="#" class="genre">Yes!</a></li>
@@ -17,7 +24,12 @@
                 <!-- </h5> -->
 
                 <br/>
-                <button class="btn btn-primary btn-lg center-block" data-dismiss="modal" aria-hidden="true"> Awesome! </button>
+                <div class="outer">
+                    <div class="inner">
+                    <button class="genre btn btn-primary btn-lg center-block floatleft">Play!</button>
+                    <button class="btn btn-primary btn-lg center-block" data-dismiss="modal" aria-hidden="true"> Hide </button>
+                    </div>
+                </div>
             </div>
         </div>
         </div>

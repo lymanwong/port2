@@ -230,6 +230,16 @@ header .header-content .inner p {
 #video-background.collapsing {
   display: none; }
 
+.outer {
+  width: 100%;
+  text-align: center; }
+
+.inner {
+  display: inline-block; }
+
+.floatleft {
+  float: left; }
+
 footer {
   background-color: #2d2d2d; }
 
