@@ -42,4 +42,25 @@
             }
         });
     });
+
+    $('#pp').on('click', function(){
+        $('#mylink').attr('href','http://pictureperfectbyivon.herokuapp.com/');
+    })
+    $('#ny').on('click', function(){
+        $('#mylink').attr('href','http://nytapi.herokuapp.com/');
+    })
+    $('#angular').on('click', function(){
+        $('#mylink').attr('href','https://lyman-wong-angular.herokuapp.com/#/');
+    })
+    $('#railspin').on('click', function(){
+        $('#mylink').attr('href','https://vrypinteresting.herokuapp.com/');
+    })
+    $('#emailt').on('click', function(){
+        $('#mylink').attr('href','https://github.com/lymanwong/email-templates');
+    })
+    $('#droid').on('click', function(){
+        $('#mylink').attr('href','https://github.com/lymanwong/Android-Projects');
+    })
 })(jQuery);
+
+

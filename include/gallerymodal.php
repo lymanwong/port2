@@ -5,7 +5,10 @@
                 <img src="//placehold.it/1200x700/222?text=..." id="galleryImage" class="img-responsive centering_modal_image" />
                 <p>
                     <br/>
-                    <button class="btn btn-primary btn-lg center-block" data-dismiss="modal" aria-hidden="true">Close <i class="ion-android-close"></i></button>
+                    <div class="row" style="text-align: center;">
+                        <a href="" id="mylink" target="_blank"><button class="btn btn-primary btn-lg" role="button" aria-hidden="true" style="display:inline-block;">Take me there</button></a>
+                        <button class="btn btn-primary btn-lg" style="display:inline-block;" data-dismiss="modal" aria-hidden="true">Close <i class="ion-android-close"></i></button>
+                    </div>
                 </p>
             </div>
         </div>
