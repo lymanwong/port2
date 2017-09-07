@@ -61,6 +61,10 @@
     $('#droid').on('click', function(){
         $('#mylink').attr('href','https://github.com/lymanwong/Android-Projects');
     })
+
+    $('#soundplay').on('click', function(){
+        $('#soundmsg').hide();
+    })
 })(jQuery);
 
 

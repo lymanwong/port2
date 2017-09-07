@@ -29,7 +29,7 @@
                     <div class="gallery-box-content">
                         <div>
                             <h2>NY Times API</h2>
-                            <h3>Consuming API, AJAX, jQuery, and Bootstrap</h3>
+                            <h4>Consuming API, AJAX, jQuery, and Bootstrap</h4>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
                 <div class="gallery-box-caption">
                     <div class="gallery-box-content">
                         <div>
-                            <h2>Responsive Emails</h2>
-                            <h3>Templates can be found on Github</h3>
+                            <h2>Email Templates</h2>
+                            <h4>Responsive and Non-responsive</h4>
                         </div>
                     </div>
                 </div>
@@ -80,9 +80,8 @@
                 <div class="gallery-box-caption">
                     <div class="gallery-box-content">
                         <div>
-                            <h2>Android</h2>
-                            <h4>https://github.com/lymanwong/Android-Projects</h4>
-                            <h3>Checkout my Github for more examples</h3>
+                            <h2>Android apps</h2>
+                            <h4>Eclipse</h4>
                         </div>
                     </div>
                 </div>
