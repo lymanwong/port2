@@ -25,6 +25,7 @@
                     <li>
                         <a class="page-scroll" href="#last">Contact</a>
                     </li>
+
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
@@ -35,6 +36,9 @@
                     </li>
                     <li>
                         <a class="page-scroll" data-toggle="modal" title="More info about me" href="#aboutModal">About</a>
+                    </li>
+                    <li>
+                        <a href="https://lymansblog.wordpress.com/" target="_blank">Blog</a>
                     </li>
                 </ul>
             </div>

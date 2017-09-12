@@ -9,6 +9,7 @@
                         <li><a class="page-scroll" href="#three">Experience</a></li>
                         <li><a class="page-scroll" href="#four">Education</a></li>
                         <li><a class="page-scroll" data-toggle="modal" title="See my resume" href="#resume">Resume</a></li>
+                        <li><a href="https://lymansblog.wordpress.com/" target="_blank">Blog</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-6 col-sm-3 column">
