@@ -7,5 +7,6 @@
     <script src="//code.angularjs.org/1.2.0rc1/angular-animate.js"></script> -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
     <script src="http://connect.soundcloud.com/sdk.js"></script>
+    <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/sound.js"></script>
