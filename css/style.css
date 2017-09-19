@@ -536,4 +536,50 @@ img::-moz-selection {
   background-size: cover;
   background-position: 50% 50%; }
 
+@media (max-width: 768px) {
+  body {
+    max-width: 768px;
+    margin-left: -4em;
+    padding: 0 2em; }
+
+  #last > div > div > div.col-lg-10.col-lg-offset-1.text-center > form > div.col-md-4.col-md-offset-4 > button:nth-child(2) {
+    width: 30%;
+    display: inline-block; }
+
+  #last > div > div > div.col-lg-10.col-lg-offset-1.text-center > form > div.col-md-4.col-md-offset-4 > button:nth-child(3) {
+    width: 30%;
+    display: inline-block; }
+
+  #last > div > div > div.col-lg-10.col-lg-offset-1.text-center {
+    padding: 0 50px; }
+
+  #footer {
+    padding: 0 50px; } }
+@media (max-width: 414px) {
+  body {
+    padding-right: 2.5em; }
+
+  #first {
+    height: 33em; }
+
+  .particles-js-canvas-el {
+    width: 50%;
+    height: 77%;
+    margin-top: -500px; }
+
+  .inner {
+    padding-top: 15%; }
+
+  .container-fluid {
+    padding: 0 50px; } }
+@media (max-width: 320px) {
+  body {
+    padding: 0; }
+
+  .container-fluid {
+    padding: 0 25px; }
+
+  #first {
+    height: 31em; } }
+
 /*# sourceMappingURL=style.css.map */

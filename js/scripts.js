@@ -147,7 +147,11 @@
          "enable": true,
          "mode": "push"
        },
-       "resize": true
+       "onresize":{
+         "enable":true,
+         "density_auto":true,
+         "density_area":400
+       }
      },
      "modes": {
        "grab": {
