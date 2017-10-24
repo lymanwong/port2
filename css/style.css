@@ -506,7 +506,9 @@ img::-moz-selection {
   transform-style: preserve-3d;
   position: absolute;
   top: 0;
-  left: 0; }
+  left: 0;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden; }
 
 /*  UPDATED! front pane, placed above back */
 .front {

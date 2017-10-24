@@ -65,6 +65,7 @@
     $('#soundplay').on('click', function(){
         $('#soundmsg').hide();
     })
+
 })(jQuery);
 
  particlesJS("particles-js", {
