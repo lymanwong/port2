@@ -1,12 +1,6 @@
 $color-primary-text: #9b59b6;
+$body-font:  'proximaNova', 'Questrial','Helvetica Neue',Arial,sans-serif;
 
-
-/*
-
-Landing Zero theme - A free landing page theme from BootstrapZero
-http://www.bootstrapzero.com
-
-*/
 @import url(https://fonts.googleapis.com/css?family=Questrial);
 @import url(http://fonts.googleapis.com/css?family=Dancing+Script:700);
 
@@ -22,7 +16,7 @@ body {
 }
 
 body {
-    font-family: 'proximaNova', 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: $body-font;
     background-color: #282828;
     color: #d3d3d3;
     webkit-tap-highlight-color: #222;
