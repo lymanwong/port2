@@ -1,0 +1,32 @@
+{
+  "name": "myg",
+  "version": "1.0.0",
+  "description": "Activate Sass Watch sass --watch scss:css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lymanwong/port2.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Lyman Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lymanwong/port2/issues"
+  },
+  "homepage": "https://github.com/lymanwong/port2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "run-sequence": "^2.2.0"
+  }
+}

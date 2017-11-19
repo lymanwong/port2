@@ -14,7 +14,7 @@
                     <div class="flipper">
                         <div class="feature front">
                             <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
-                            <a href="https://www.linkedin.com/in/lymanwong" class="gallery-box-alt" target="_blank data-toggle="modal" data-src="http://lymanwong.com/images/neil.jpg"><img class="profile"src="images/neil.jpg" alt="This is a picture of Neil."></a>
+                            <a href="#galleryModal" class="gallery-box-alt" target="_blank data-toggle="modal" data-src="http://lymanwong.com/images/neil.jpg"><img class="profile"src="images/neil.jpg" alt="This is a picture of Neil."></a>
                             <h3>Neil F.</h3>
                             <h4>Sr. Director @ LeEco US</h4>
                             <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Neil had to say)</a></h4>
@@ -30,7 +30,7 @@
                     <div class="flipper">
                         <div class="feature front">
                     <!-- <i class="icon-lg ion-android-person wow fadeInUp" data-wow-delay=".2s"></i> -->
-                    <a href="#galleryModal" class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/chen.jpg"><img class="profile" src="images/chen.jpg" alt="This is a picture of my  co-worker at LeEco, Chen."></a>
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/chen.jpg"><img class="profile" src="images/chen.jpg" alt="This is a picture of my  co-worker at LeEco, Chen."></a>
                     <h3>Chen F.</h3>
                     <h4>Software Engineer @ LeEco</h4>
                     <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Chen had to say)</a></h4>
@@ -46,7 +46,7 @@
                     <div class="flipper">
                         <div class="feature front">
                     <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
-                    <a href="#galleryModal" class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/brandon.jpg"><img class="profile"src="images/brandon.jpg" alt="This is a picture of my friend, Eric, from Zynga."></a>
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/brandon.jpg"><img class="profile"src="images/brandon.jpg" alt="This is a picture of my friend, Eric, from Zynga."></a>
                     <h3>Brandon T.</h3>
                     <h4>Software Engineer @ LeEco US</h4>
                     <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Brandon had to say)</a></h4>
@@ -64,7 +64,7 @@
                     <div class="flipper">
                         <div class="feature front">
                     <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
-                    <a href="#galleryModal" class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/alex.jpg"><img class="profile"src="images/alex.jpg" alt="This is a picture of my boss, Alex, speaking at a conference."></a>
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/alex.jpg"><img class="profile"src="images/alex.jpg" alt="This is a picture of my boss, Alex, speaking at a conference."></a>
                     <h3>Alex S.</h3>
                     <h4>Founder @ Phlint</h4>
                     <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Alex had to say)</a></h4>
@@ -80,7 +80,7 @@
                     <div class="flipper">
                         <div class="feature front">
                     <!-- <i class="icon-lg ion-android-person wow fadeInUp" data-wow-delay=".2s"></i> -->
-                    <a href="#galleryModal" class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/Howard.jpg"><img class="profile" src="images/Howard.jpg" alt="This is a picture of my co-worker, Howard, at LeEco."></a>
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/Howard.jpg"><img class="profile" src="images/Howard.jpg" alt="This is a picture of my co-worker, Howard, at LeEco."></a>
                     <h3>Howard H.</h3>
                     <h4>Sr. Product Manager @ LeEco US</h4>
                     <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Howard had to say)</a></h4>
@@ -96,7 +96,7 @@
                     <div class="flipper">
                         <div class="feature front">
                     <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
-                    <a href="#galleryModal" class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/shan.jpg"><img class="profile"src="images/shan.jpg" alt="This is a picture of my coworker from LeEco, Shan."></a>
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/shan.jpg"><img class="profile"src="images/shan.jpg" alt="This is a picture of my coworker from LeEco, Shan."></a>
                     <h3>Shan G.</h3>
                     <h4>User Experience Designer @ LeEco</h4>
                     <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Shan had to say)</a></h4>

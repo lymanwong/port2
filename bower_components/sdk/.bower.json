@@ -1,0 +1,12 @@
+{
+  "name": "sdk",
+  "_cacheHeaders": {
+    "Last-Modified": "Tue, 22 Sep 2015 15:08:45 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "main": "index.js",
+  "_source": "http://connect.soundcloud.com/sdk.js",
+  "_target": "*",
+  "_originalSource": "http://connect.soundcloud.com/sdk.js",
+  "_direct": true
+}
