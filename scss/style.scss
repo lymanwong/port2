@@ -666,6 +666,19 @@ img::-moz-selection {
   background-position: 50% 50%;
 }
 
+@media(max-width:767px){
+    #first {
+        height:40em;
+    }
+    .inner {
+        padding-top:15%;
+    }
+    .particles-js-canvas-el {
+        width: 50%;
+        height:88%;
+        margin-top:-530px;
+    }
+}
 
 @media(max-width:414px){
     #first {
