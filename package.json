@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/lymanwong/port2#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "connect-php": "0.0.2",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^7.0.0",

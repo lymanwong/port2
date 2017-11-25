@@ -6,16 +6,21 @@ var uglify = require('gulp-uglify');
 var runSequence = require('run-sequence');
 var watch = require('gulp-watch');
 var sass = require('gulp-sass');
+var browserSync = require('browser-sync');
 
 /* tasks */
-// gulp.task('sass', function(){
-//   return gulp.src(['scss/style.scss'])
-//   .pipe(sass())
-//   .pipe(gulp.dest('css'));
-// });
+gulp.task('sass', function(){
+  return gulp.src(['scss/style.scss'])
+  .pipe(sass())
+  .pipe(gulp.dest('css'));
+});
+
+var reload = browserSync.reload;
+
+gulp.task('sass-watch', ['sass'], browserSync.reload);
 
 gulp.task('watch',function(){
-  gulp.watch('scss/*.scss',['sass']);
+  gulp.watch('./scss/*.scss',['sass-watch']);
 });
 
 gulp.task('depsjs', function(){
@@ -37,6 +42,6 @@ gulp.task('depsDist', function (){
   .pipe(gulp.dest('bin'));
 });
 
-gulp.task('default', function (callback){
+gulp.task('default',function (callback){
   runSequence('depsjs','depsDist', 'watch',callback);
 })

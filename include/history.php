@@ -3,16 +3,18 @@
             <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
                 <h2 class="text-center text-primary">Experience</h2>
                 <hr>
-                <div class="media wow fadeInRight">
-                    <h3>LeEco US - May 2016 to Current</h3>
+                <div class="media wow fadeInLeft">
+                    <h3>LeEco US - May 2016 to July 2017</h3>
                     <div class="media-body media-middle">
-                        <p>Web Developer</p>
+                        <p>Social Media Community Manager
+                        <!-- </br>Web Developer -->
+                    </p>
                     </div>
                     <div class="media-right">
                         <i class="icon-lg ion-monitor"></i>
                     </div>
                 </div>
-                <hr>
+<!--                 <hr>
                 <div class="media wow fadeInLeft">
                     <h3>Phlint Retail Analytics - Oct. 2015 to Apr. 2016</h3>
                     <div class="media-left">
@@ -21,12 +23,13 @@
                     <div class="media-body media-middle">
                         <p>Front End Developer</p>
                     </div>
-                </div>
+                </div> -->
                 <hr>
                 <div class="media wow fadeInRight">
                     <h3>Yerdle, Inc. - May 2015 to Oct. 2015</h3>
                     <div class="media-body media-middle">
-                        <p>Community Manager</p>
+                        <p>Community Manager</br>
+                        (Strategic Operations)</p>
                     </div>
                     <div class="media-right">
                         <i class="icon-lg ion-ios-people-outline"></i>
@@ -39,7 +42,9 @@
                         <i class="icon-lg ion-cube"></i>
                     </div>
                     <div class="media-body media-middle">
-                        <p>Associate Community Manager, Community Specialist, and Game Lead</p>
+                        <p>Associate Community Manager (1 award)</br>
+                        Community Specialist (1 award)</br>
+                    and Game Lead (4 awards)</p>
                     </div>
                 </div>
                 <hr>

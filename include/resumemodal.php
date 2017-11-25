@@ -4,7 +4,7 @@
             <div class="modal-body">
                 <h2 class="text-center">My Resume:</h2>
                 <h5 class="text-center">
-                    <object width="565" height="565" data="images/Lyman_Wong_Web_Developer.pdf"></object>
+                    <object width="565" height="565" data="images/Lyman_Wong_Community_Manager.pdf"></object>
                 </h5>
 
                 <br/>

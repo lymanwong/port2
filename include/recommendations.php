@@ -103,10 +103,70 @@
                 </div>
                 <div class="back">
                     <p class="text-muted">"Lyman does not only have comprehensive technical skill sets, but also sees where programming and user experience meet. He has the ability to interpret the UX/UI designs and implementing them effectively. He always checked with designers on any details of the designs in order to launching a successful and functioning website. Also, Lyman is a truly team player and a great communicator,..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h4 id="seeMore" class="margin-top-0 text-primary">Click For More Recommendations</h4>
+                    <hr class="primary xtraRecos">
+                </div>
+            </div>
+        </div>
+
+        <div class="row xtraRecos">
+            <div class="col-lg-4 col-md-4 text-center">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flipper">
+                        <div class="feature front">
+                    <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/josh.jpg"><img class="profile" src="images/josh.jpg" alt="This is a picture of my co-worker, Josh, from Zynga."></a>
+                    <h3>Josh W.</h3>
+                    <h4>Engineering Manager @ Life360</h4>
+                    <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Josh had to say)</a></h4>
+                </div>
+                <div class="back">
+                    <p class="text-muted">"While I can only select one title with which I've worked with Lyman, we have worked on the same projects for over three years and, across all of them he has, to use the parlance at Zynga, "killed it". He has always been completely reliable in his work, able to switch between projects and attentively follow them from start to finish, ensuring the best results possible... <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-4 text-center">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flipper">
+                        <div class="feature front">
+                    <!-- <i class="icon-lg ion-android-person wow fadeInUp" data-wow-delay=".2s"></i> -->
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/eric.jpg"><img class="profile" src="images/eric.jpg" alt="This is a picture of my co-worker, Eric, from Zynga."></a>
+                    <h3>Eric A.</h3>
+                    <h4>Tableau Systems Analyst @ Accenture</h4>
+                    <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Eric had to say)</a></h4>
+                </div>
+                <div class="back">
+                           <p class="text-muted">"Truly, one of the best co-workers/teammates I've ever had. Lyman has a work-ethic that is pretty hard to match. He can carry a multitude of projects, simultaneously, from their beginning to end, pivot at a moments notice with rapidly changing needs, and without fail, maintain a forward-thinking, positive, friendly, approach to his work and to others. .." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 text-center">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flipper">
+                        <div class="feature front">
+                    <!-- <i class="icon-lg ion-android-person wow fadeIn" data-wow-delay=".3s"></i> -->
+                    <a class="gallery-box-alt" data-toggle="modal" data-src="http://lymanwong.com/images/amber.jpg"><img class="profile" src="images/amber.jpg" alt="This is a picture of my coworker, Amber, from Zynga."></a>
+                    <h3>Amber F.</h3>
+                    <h4>Project Manager @ Uber</h4>
+                    <h4><a href="https://www.linkedin.com/in/lymanwong" target="_blank">(See what Amber had to say)</a></h4>
+                </div>
+                <div class="back">
+                    <p class="text-muted">"Lyman is a truly great example of a team player. He's highly effective at bridging the gap between several departments and making sure that everyone has the information that they need in order to best serve our customers. At the end of the day, if a customer needs something Lyman is going to be the one to make sure they are taken care of. He's dependable and will go the extra mile. I would love to work with him again..." <a href="https://www.linkedin.com/in/lymanwong" target="_blank">(more)</a></p>
+                </div>
+                </div>
+            </div>
         </div>
+
     </div>
+</div>
 </section>

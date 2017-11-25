@@ -43,6 +43,10 @@
         });
     });
 
+    $('#seeMore').on('click',function(){
+      $('.xtraRecos').slideToggle("slow");
+    });
+
     $('#pp').on('click', function(){
         $('#mylink').attr('href','http://pictureperfectbyivon.herokuapp.com/');
     })

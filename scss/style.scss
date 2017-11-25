@@ -517,7 +517,7 @@ fieldset[disabled] .btn-default.active {
 .btn {
     border: 0;
     border-radius: 290px;
-    font-family: 'proximaNova','Helvetica Neue',Arial,sans-serif;
+    font-family: 'proximaNova','Helvetica Neue',Arial;
 }
 
 .btn-xl {
@@ -610,7 +610,6 @@ img::-moz-selection {
 .flipper {
     transition: 0.6s;
     transform-style: preserve-3d;
-
     position: relative;
 }
 
@@ -619,7 +618,6 @@ img::-moz-selection {
     backface-visibility: hidden;
     transition: 0.6s;
     transform-style: preserve-3d;
-
     position: absolute;
     top: 0;
     left: 0;
@@ -694,3 +692,6 @@ img::-moz-selection {
     }
 }
 
+.xtraRecos {
+    display:none;
+}
