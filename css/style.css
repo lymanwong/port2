@@ -535,9 +535,9 @@ img::-moz-selection {
   #first {
     height: 33em; }
   .particles-js-canvas-el {
-    width: 50%;
-    height: 77%;
-    margin-top: -500px; }
+    width: 100% !important;
+    height: 85% !important;
+    margin-bottom: 10%; }
   .inner {
     padding-top: 15%; } }
 
